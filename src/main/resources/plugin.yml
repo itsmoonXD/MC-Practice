@@ -1,0 +1,8 @@
+name: Movement
+version: '${project.version}'
+main: me.moon.movement.Main
+api-version: 1.18
+authors: [ Moon ]
+commands:
+  keybind:
+  blocks:
